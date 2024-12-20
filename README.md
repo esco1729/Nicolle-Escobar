@@ -16,6 +16,7 @@
 ### Artificial Intelligence
 - Spam and Ham classifier
 - Othello (Reversi)
+- Tabu search for Vehicle Routing Problem
 
 
 ### Deep Learning and Computer Vision
