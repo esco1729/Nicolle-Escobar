@@ -1,7 +1,7 @@
 # Applied Mathematics Student
 
 ### Education
-- Applied mathematics
+- Applied mathematics, Universidad del Valle de Guatemala
 
 ### Projects
 #### Data Science
