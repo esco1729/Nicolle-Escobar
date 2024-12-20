@@ -9,7 +9,6 @@
 - WebScraper 
 - Fraud transactions
 - Fuel imports and exports
-- Text processing
 
 ### Data Engineering
 - ETL Banguat
@@ -21,8 +20,10 @@
 
 ### Deep Learning and Computer Vision
 - Plant seedlings classifications
-- Natural language processing Yelp reviews
+- Natural language processing (Yelp reviews)
+- Text classification from Alice in Wonderland
 - CNN for Arabic digits detection
+
 
 ### Certificates
 - ETL and Data Pipelines with Shell, Airflow and Kafka
