@@ -1,10 +1,18 @@
-# Estudiante de Matemática Aplicada
+# Applied Mathematics Student
 
-### Educación
+### Education
 Matemática Aplicada, UVG
 
 
-### Proyectos
+### Projects
+#### Data Science
 WebScraper 
 
-ETL Banguat
+
+### Data Engineering
+ETL Banguat Data
+
+
+### Certificates
+ETL and Data Pipelines with Shell, Airflow and Kafka
+
