@@ -1,5 +1,6 @@
 # Applied Mathematics Student
 
+
 ### Education
 - Applied mathematics, Universidad del Valle de Guatemala
 
@@ -15,11 +16,13 @@
 
 ### Artificial Intelligence
 - Spam and Ham classifier
+- Othello (Reversi)
+
 
 ### Deep Learning and Computer Vision
 - Plant seedlings classifications
 - Natural language processing Yelp reviews
-
+- CNN for Arabic digits detection
 
 ### Certificates
 - ETL and Data Pipelines with Shell, Airflow and Kafka
