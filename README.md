@@ -12,6 +12,7 @@
 
 ### Data Engineering
 - ETL Banguat
+- WebScraping list of largest banks by market capitalization and assets
 
 ### Artificial Intelligence
 - Spam and Ham classifier
