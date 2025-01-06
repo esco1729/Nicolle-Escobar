@@ -1,4 +1,3 @@
-# Nicolle Escobar
 <div align="center">
   <img src="assets/img/photo.JPG" alt="Profile Photo" style="border-radius: 50%; width: 200px;">
 </div>
