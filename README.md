@@ -45,6 +45,19 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
   <h3>Fuel Import/Export Analysis 📊</h3>
 </div>
 
+### Deep Learning
+<div class="project-card">
+  <h3>Plant Seedlings Classification 🌱</h3>
+  <p>An implementation of plant seedlings classification model using Transfer Learning through the use of EfficientNet-B0 with ImageNet weights.</p>
+  <div class="tech-stack">
+    <span class="tech-tag">Python</span>
+    <span class="tech-tag">Tensorflow</span>
+    <span class="tech-tag">Scikit-learn</span>
+  </div>
+  <div class="project-links">
+    <a href="https://github.com/esco1729/plant-seedlings" target="_blank">View Code</a>
+  </div>
+</div>
 
 ### Data Engineering
 <div class="project-card">
