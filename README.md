@@ -55,6 +55,7 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
   </div>
   <div class="project-links">
     <a href="https://github.com/esco1729/plant-seedlings" target="_blank">View Code</a>
+    <a href="assets/img/Clasificacion.pdf" download>View Report</a>
   </div>
 </div>
 
