@@ -86,7 +86,7 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
   </div>
   <div class="project-links">
     <a href="https://github.com/esco1729/vrp-tabu-search/blob/main/VRP.ipynb" target="_blank">View Code</a>
-    <a href="https://github.com/esco1729/vrp-tabu-search/blob/main/Tabu%20Search.pdf" target="_blank">View Report</a>
+    <a href="assets/img/Tabu Search.pdf" download>View Report</a>
   </div>
 </div>
 
