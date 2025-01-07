@@ -21,9 +21,9 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
   <h3>Stock Price Predictor 📈</h3>
   <p>A hybrid machine learning model combining LSTM neural networks and Linear Regression to predict stock prices. Built with Python, PyTorch, and Streamlit.</p>
   <div class="tech-stack">
-    <span class="tech-tag">Python</span>
-    <span class="tech-tag">PyTorch</span>
-    <span class="tech-tag">Streamlit</span>
+    <span class="tech-tag">Python |</span>
+    <span class="tech-tag">PyTorch |</span>
+    <span class="tech-tag">Streamlit |</span>
     <span class="tech-tag">Machine Learning</span>
   </div>
   <div class="project-links">
@@ -49,8 +49,8 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
   <h3>Plant Seedlings Classification 🌱</h3>
   <p>An implementation of plant seedlings classification model using Transfer Learning through the use of EfficientNet-B0 with ImageNet weights.</p>
   <div class="tech-stack">
-    <span class="tech-tag">Python</span>
-    <span class="tech-tag">Tensorflow</span>
+    <span class="tech-tag">Python | </span>
+    <span class="tech-tag">Tensorflow | </span>
     <span class="tech-tag">Scikit-learn</span>
   </div>
   <div class="project-links">
@@ -78,6 +78,16 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
 
 <div class="project-card">
   <h3>Vehicle Routing Optimizer 🚛</h3>
+  <p>Comparing the yielded cost and time of Tabu Search vs Simulated Annealing to solve the Vehicle Routing Problem given the depot count, service area, and vehicle parameters.</p>
+  <div class="tech-stack">
+    <span class="tech-tag">Python | </span>
+    <span class="tech-tag">Artificial Intelligence | </span>
+    <span class="tech-tag">Optimization</span>
+  </div>
+  <div class="project-links">
+    <a href="https://github.com/esco1729/vrp-tabu-search/blob/main/VRP.ipynb" target="_blank">View Code</a>
+    <a href="https://github.com/esco1729/vrp-tabu-search/blob/main/Tabu%20Search.pdf" target="_blank">View Report</a>
+  </div>
 </div>
 
 <style>
