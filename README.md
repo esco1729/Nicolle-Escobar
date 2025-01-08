@@ -36,7 +36,7 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
   <h3>Investment portfolio optimization </h3>
   <p>An approach to investment portfolio optimization using modern Markowitz portfolio theory.</p>
   <div class="tech-stack">
-    <span class="tech-tag">Investment theory |</span>
+    <span class="tech-tag">Investment Theory |</span>
     <span class="tech-tag">Optimization </span>
   </div>
   <div class="project-links">
