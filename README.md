@@ -60,7 +60,7 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
 </div>
 
 <div class="project-card">
-  <h3>Handwritten Digits Dtection</h3>
+  <h3>Handwritten Digits Detection</h3>
   <p>Convolutional neural networks (CNN) to detect Arabic digits and the classical MNIST digits dataset through the use of a genetic algorithm for hyperparameter tuning.</p>
   <div class="tech-stack">
     <span class="tech-tag">Python | </span>
