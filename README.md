@@ -33,7 +33,16 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
 </div>
 
 <div class="project-card">
-  <h3>WebScraper 🌐</h3>
+  <h3>Investment portfolio optimization </h3>
+  <p>An approach to investment portfolio optimization using modern Markowitz portfolio theory.</p>
+  <div class="tech-stack">
+    <span class="tech-tag">Investment theory |</span>
+    <span class="tech-tag">Optimization </span>
+  </div>
+  <div class="project-links">
+    <a href="https://github.com/esco1729/markowitz" target="_blank">View Code</a>
+    <a href="assets/img/Proyecto2.pdf" download>View Report</a>
+  </div>
 </div>
 
 <div class="project-card">
@@ -49,9 +58,9 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
   <h3>Plant Seedlings Classification 🌱</h3>
   <p>An implementation of plant seedlings classification model using Transfer Learning through the use of EfficientNet-B0 with ImageNet weights.</p>
   <div class="tech-stack">
-    <span class="tech-tag">Python | </span>
-    <span class="tech-tag">Tensorflow | </span>
-    <span class="tech-tag">Scikit-learn</span>
+    <span class="tech-tag">Computer vision | </span>
+    <span class="tech-tag">Transfer learning </span>
+    
   </div>
   <div class="project-links">
     <a href="https://github.com/esco1729/plant-seedlings" target="_blank">View Code</a>
@@ -63,9 +72,9 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
   <h3>Handwritten Digits Detection</h3>
   <p>Convolutional neural networks (CNN) to detect Arabic digits and the classical MNIST digits dataset through the use of a genetic algorithm for hyperparameter tuning.</p>
   <div class="tech-stack">
-    <span class="tech-tag">Python | </span>
-    <span class="tech-tag">Tensorflow | </span>
-    <span class="tech-tag">Scikit-learn</span>
+    <span class="tech-tag">Simulation | </span>
+    <span class="tech-tag">Modelling | </span>
+    <span class="tech-tag">Classification </span>
   </div>
   <div class="project-links">
     <a href="https://github.com/esco1729/arabic-mnist" target="_blank">View Code</a>
@@ -97,7 +106,7 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
   <div class="tech-stack">
     <span class="tech-tag">Python | </span>
     <span class="tech-tag">Artificial Intelligence | </span>
-    <span class="tech-tag">Optimization</span>
+    <span class="tech-tag">Optimization </span>
   </div>
   <div class="project-links">
     <a href="https://github.com/esco1729/vrp-tabu-search/blob/main/VRP.ipynb" target="_blank">View Code</a>
