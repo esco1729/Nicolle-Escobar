@@ -51,6 +51,16 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
 
 <div class="project-card">
   <h3>Fuel Import/Export Analysis 📊</h3>
+  <p>Application of data science for trend analysis and predictive modeling in fuel import, consumption, and export in Guatemala.</p>
+  <div class="tech-stack">
+    <span class="tech-tag">LSTM neural networks |</span>
+    <span class="tech-tag">Facebook Prophet | </span>
+    <span class="tech-tag">ARIMA | </span>
+  </div>
+  <div class="project-links">
+    <a href="https://github.com/esco1729/fuel-analysis" target="_blank">View Code</a>
+    <a href="assets/img/Combustible.pdf" download>View Report</a>
+  </div>
 </div>
 
 ### Deep Learning
