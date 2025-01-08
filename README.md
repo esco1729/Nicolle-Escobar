@@ -55,7 +55,7 @@ Applied Mathematics student at Universidad del Valle de Guatemala, passionate ab
   <div class="tech-stack">
     <span class="tech-tag">LSTM neural networks |</span>
     <span class="tech-tag">Facebook Prophet | </span>
-    <span class="tech-tag">ARIMA | </span>
+    <span class="tech-tag">ARIMA </span>
   </div>
   <div class="project-links">
     <a href="https://github.com/esco1729/fuel-analysis" target="_blank">View Code</a>
